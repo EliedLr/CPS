@@ -54,3 +54,8 @@ p{
 .boton:hover{
     background: rgb(231, 123, 0);
 }
+.titlehero{
+    color: #ff0505b6;
+    user-select: none;
+    text-align: center;
+}
