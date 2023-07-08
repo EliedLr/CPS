@@ -21,6 +21,10 @@ function Five() {
        selec3.setAttribute("hidden","true")
        text.textContent = "¡Prueba Tu Destresa Aqui!"
        clicker.addEventListener("click",contar);
+       clicker.addEventListener("click",animacion);
+       function animacion(){
+              
+       }
        let contador = -1;
        function contar(){
               contador++;
