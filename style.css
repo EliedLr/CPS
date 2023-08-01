@@ -49,13 +49,14 @@ p{
     border-radius: 24rem;
     padding: .3rem 1rem;
     background: rgb(228, 5, 53);
-    transition: background .3s;
+    transition: all .3s;
 }
 .boton:hover{
     background: rgb(231, 123, 0);
 }
 .titlehero{
-    color: #ff0505b6;
+    padding: 1rem;
+    color: #ea2727b6;
     user-select: none;
     text-align: center;
 }
